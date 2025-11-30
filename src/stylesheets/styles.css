@@ -1,0 +1,21 @@
+.poster {
+    width: 150px;
+    height: 300px;
+    margin: 10px;
+
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.poster:hover {
+    transform: scale(1.02);
+    transition: 0.1s;
+}
+
+.movie-item {
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+}
