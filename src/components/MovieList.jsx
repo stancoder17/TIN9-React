@@ -1,6 +1,6 @@
 import MovieItem from "./MovieItem.jsx";
 
-function MovieList({ movies, onAddMovie, onDeleteMovie }) {
+function MovieList({ movies, onDeleteMovie }) {
     return (
         <>
             <ol>
