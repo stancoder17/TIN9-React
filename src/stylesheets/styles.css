@@ -1,3 +1,8 @@
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .poster {
     width: 150px;
     height: 300px;
